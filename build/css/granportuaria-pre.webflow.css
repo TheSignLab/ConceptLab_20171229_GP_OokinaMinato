@@ -1,7 +1,7 @@
 /* Generated on: Tue Oct 31 2017 21:58:06 GMT+0000 (UTC) */
 
 /* ==========================================================================
-   normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
+   normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css
    ========================================================================== */
 
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
@@ -431,7 +431,7 @@ html[data-w-dynpage] [data-w-cloak] {
     vertical-align: middle !important
 }
     .seccion7logosdiv{
-        display:inline-block; 
+        display:inline-block;
         height: 34%
     }
     .seccion7logosdiv img {
@@ -5008,14 +5008,14 @@ textarea.w-select {
         font-size: 0.8em;
     }
     .seccion7logosdiv{
-        display:inline-block; 
+        display:inline-block;
     }
     .seccion7logosdiv img {
         width: 100%;
         margin: 20px auto;
         display:block;
     }
-    
+
     .homeparrafo{
         top: 10px;
     position: relative;
@@ -5151,6 +5151,11 @@ textarea.w-select {
     float: left;
 }
 
+
+.seccion7divdatosinterno{
+
+  padding-top: 80px;
+}
 				}
 
 				.seccion7logosdiv {

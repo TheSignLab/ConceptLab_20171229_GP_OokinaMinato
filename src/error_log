@@ -1,0 +1,11 @@
+[08-Nov-2017 21:11:48 Etc/UTC] PHP Warning:  file_get_contents(email_template1.html): failed to open stream: No such file or directory in /home/bi11ers4s/public_html/granportuaria.com/mainFormHandler2.php on line 52
+[08-Nov-2017 21:11:52 Etc/UTC] PHP Warning:  file_get_contents(email_template1.html): failed to open stream: No such file or directory in /home/bi11ers4s/public_html/granportuaria.com/mainFormHandler2.php on line 52
+[08-Nov-2017 21:18:46 Etc/UTC] PHP Warning:  file_get_contents(email_template1.html): failed to open stream: No such file or directory in /home/bi11ers4s/public_html/granportuaria.com/mainFormHandler2.php on line 52
+[08-Nov-2017 21:24:41 Etc/UTC] PHP Warning:  file_get_contents(email_template1.html): failed to open stream: No such file or directory in /home/bi11ers4s/public_html/granportuaria.com/mainFormHandler2.php on line 52
+[20-Nov-2017 18:10:37 UTC] PHP Notice:  Undefined index: Nombre in /home/bi11ers4s/public_html/granportuaria.com/mainFormHandler2.php on line 20
+[20-Nov-2017 18:10:37 UTC] PHP Notice:  Undefined index: Empresa in /home/bi11ers4s/public_html/granportuaria.com/mainFormHandler2.php on line 21
+[20-Nov-2017 18:10:37 UTC] PHP Notice:  Undefined index: Email in /home/bi11ers4s/public_html/granportuaria.com/mainFormHandler2.php on line 22
+[20-Nov-2017 18:10:37 UTC] PHP Notice:  Undefined index: Telefono in /home/bi11ers4s/public_html/granportuaria.com/mainFormHandler2.php on line 23
+[20-Nov-2017 18:10:37 UTC] PHP Notice:  Undefined index: Ciudad in /home/bi11ers4s/public_html/granportuaria.com/mainFormHandler2.php on line 24
+[20-Nov-2017 18:10:37 UTC] PHP Notice:  Undefined index: Solicitud in /home/bi11ers4s/public_html/granportuaria.com/mainFormHandler2.php on line 25
+[20-Nov-2017 18:10:37 UTC] PHP Notice:  Undefined index: Mensaje in /home/bi11ers4s/public_html/granportuaria.com/mainFormHandler2.php on line 26

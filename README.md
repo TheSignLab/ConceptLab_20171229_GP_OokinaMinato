@@ -6,9 +6,14 @@ Basic Responsive WebSite developed on WebFlow Platform
 FTP Password : njarpkcc."TheYear"
 ----------------------------------------
 
+### Solar System Exploration, 1950s – 1960s
 
-#To Do's
-
-- [ ] Revisar y Diagnosticar
-- [ ] Corregir Errores
-- [ ] Subir Version
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley

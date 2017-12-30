@@ -3,5 +3,5 @@ Basic Responsive WebSite developed on WebFlow Platform
 
 
 ----------------------------------------
-FTP Password : njarpkcc.<<TheYear>>
+FTP Password : njarpkcc."TheYear"
 ----------------------------------------

@@ -6,7 +6,7 @@
             <Port>21</Port> 
             <Protocol>0</Protocol> 
             <Type>0</Type> 
-            <User>web_granportuaria@biller.com.co@biller.com.co</User>
+            <User>web_granportuaria@biller.com.co</User>
             <Logontype>2</Logontype> 
             <TimezoneOffset>0</TimezoneOffset> 
             <PasvMode>MODE_DEFAULT</PasvMode> 
@@ -18,7 +18,7 @@
             <LocalDir/> 
             <RemoteDir/> 
             <SyncBrowsing>0</SyncBrowsing>
-            biller.com.co 
+            GranPortuaria en Biller.com.co
         </Server> 
     </Servers> 
 </FileZilla3>

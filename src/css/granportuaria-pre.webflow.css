@@ -2782,7 +2782,7 @@ textarea.w-select {
     display: -ms-flexbox;
     display: flex;
     width: 30%;
-    margin-top: 40px;
+    margin-top: 0px;
     -webkit-justify-content: space-around;
     -ms-flex-pack: distribute;
     justify-content: space-around;
@@ -4293,8 +4293,8 @@ textarea.w-select {
 }
 
 .elementospacerinvisible {
-    width: 100px;
-    height: 100px;
+    width: 0px;
+    height: 0px;
 }
 
 .slide-nav-3 {

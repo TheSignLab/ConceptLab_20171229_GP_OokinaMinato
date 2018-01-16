@@ -368,13 +368,14 @@
 					$("#formularioTerminos").show();
 					$("#formularioTerminos").attr("href", "terminos_multimodal.pdf");
 				}
+                
 				if (formCheckTTU == true || formCheckTTN == true || formCheckTTI == true) {
 					$("#formularioTerminos").show();
 					$("#formularioTerminos").attr("href", "terminos_terrestre.pdf");
 				}
 
-
-				if (formCheckA == true) {
+ 
+				if (formCheckA == true || formCheckTM == true || formCheckTA == true) {
 					$("#formularioTerminos").show();
 					$("#formularioTerminos").attr("href", "terminos_almacenaje.pdf");
 				}

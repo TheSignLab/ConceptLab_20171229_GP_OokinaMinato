@@ -730,12 +730,14 @@
 		// -- Paso 1 :  Crear las funciones scrollUp y ScrollDown                                      -- //
 		// ---------------------------------------------------------------------------------------------- //
 		function darkNavBar() {
-			$(".navbartitulo").css('color', '#002F3A');
+            if($(window).width()>600){
+                			$(".navbartitulo").css('color', '#002F3A');
 			$("#NavBarTitle_HOME").attr("src", "images/homeazul.png");
 			$("#NavBarTitle_GLOBE").attr("src", "images/globeazul.svg");
 			$(".navlink").css('color', '#002F3A');
 			$(".elementolinea").css('background-color', '#002F3A');
-			$(".w-nav-brand").css('color', '#002F3A');
+            }
+
 		}
 
 		function normalNavBar() {

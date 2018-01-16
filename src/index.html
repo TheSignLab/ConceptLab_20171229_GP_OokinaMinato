@@ -402,7 +402,7 @@
 		<div class="seccion6columnaizqdiv">
 			<h1 class="seccion6titulo"><span class="textolight"><strong>ACTUALIDAD </strong>DEL SECTOR</span></h1>
 			<p class="seccion6parrafo">Ser grande es estar siempre informado sobre la actualidad que puede afectar su negocio. <br>Siga nuestras redes sociales para mantenerse siempre actualizado.</p>
-			<div class="html-embed w-embed w-script"><a class="twitter-timeline" href="https://twitter.com/granportuaria" data-height="400" data-chrome="nofooter " data-link-color="#F8BC00">
+			<div class="html-embed w-embed w-script"><a class="twitter-timeline" href="https://twitter.com/Granportuariaco" data-height="400" data-chrome="nofooter " data-link-color="#F8BC00">
   Tweets by Granportuaria
 </a>
 				<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -620,11 +620,14 @@
 		// -- Paso 1 :  Crear las funciones scrollUp y ScrollDown                                      -- //
 		// ---------------------------------------------------------------------------------------------- //
 		function darkNavBar() {
-			$(".navbartitulo").css('color', '#002F3A');
+            if($(window).width()>600){
+                			$(".navbartitulo").css('color', '#002F3A');
 			$("#NavBarTitle_HOME").attr("src", "images/homeazul.png");
 			$("#NavBarTitle_GLOBE").attr("src", "images/globeazul.svg");
 			$(".navlink").css('color', '#002F3A');
 			$(".elementolinea").css('background-color', '#002F3A');
+            }
+
 		}
 
 		function normalNavBar() {

@@ -68,3 +68,6 @@ Webflow.require('ix').init([
   {"slug":"new-interaction","name":"New Interaction","value":{"style":{},"triggers":[{"type":"click","selector":".seccion7divdatos","stepsA":[{"display":"flex"}],"stepsB":[]}]}},
   {"slug":"datos-salir","name":"Datos Salir","value":{"style":{},"triggers":[{"type":"click","selector":".seccion7divdatos","stepsA":[{"display":"none"}],"stepsB":[]}]}}
 ]);
+
+
+

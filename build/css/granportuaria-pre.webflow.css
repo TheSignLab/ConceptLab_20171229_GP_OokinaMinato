@@ -2099,14 +2099,14 @@ textarea.w-select {
 }
 
 .fullpagesection.bg2 {
-    background-image: url("../images/Ensayo%20Seccion%20Nosotros%203.jpg");
+    background-image: url("../images/Ensayo-Seccion-Nosotros-3.jpg");
     background-position: 0px 0px;
     background-size: cover;
 }
 
 .fullpagesection.seccion2 {
     display: block;
-    background-image: url("../images/Web%20Nosotros%20Background%20Granportuaria.jpg");
+    background-image: url("../images/Web-Nosotros-Background-Granportuaria.jpg");
     background-position: 50% 50%;
 }
 
@@ -2116,7 +2116,7 @@ textarea.w-select {
 
 .fullpagesection.seccion3x {
     display: block;
-    background-image: url("../images/Ensayo%20Seccion%20Nosotros%203.jpg");
+    background-image: url("../images/Ensayo-Seccion-Nosotros-3.jpg");
 }
 
 .fullpagesection.seccion4 {
@@ -2217,7 +2217,7 @@ textarea.w-select {
 
 .fullpagesection.s1 {
     display: block;
-    background-image: url("../images/Servicios%20Fondo-80.jpg");
+    background-image: url("../images/Servicios-Fondo-80.jpg");
 }
 
 .fullpagesection.s2 {
@@ -2384,7 +2384,7 @@ textarea.w-select {
     z-index: -1;
     width: 100vw;
     height: 100vh;
-    background-image: url("../images/Ensayo%20Seccion%20Nosotros%203.jpg");
+    background-image: url("../images/Ensayo-Seccion-Nosotros-3.jpg");
     background-position: 50% 50%;
     background-size: cover;
 }
@@ -3232,8 +3232,8 @@ textarea.w-select {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    background-image: -webkit-linear-gradient(0deg, #002f3a 15%, rgba(0, 47, 58, 0)), url("..images/Granportuaria-Nosotros-1.jpg");
-    background-image: linear-gradient(90deg, #002f3a 15%, rgba(0, 47, 58, 0)), url("..images/Granportuaria-Nosotros-1.jpg");
+    background-image: -webkit-linear-gradient(0deg, #002f3a 15%, rgba(0, 47, 58, 0)), url("../images/Granportuaria-Nosotros-1.jpg");
+    background-image: linear-gradient(90deg, #002f3a 15%, rgba(0, 47, 58, 0)), url("../images/Granportuaria-Nosotros-1.jpg");
     background-position: 0px 0px, 50% 75%;
     background-size: auto, cover;
 }
@@ -3272,7 +3272,7 @@ textarea.w-select {
 
 .n1slide2.s5 {
     background-image: -webkit-linear-gradient(0deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("../images/Granportuaria-Historia-1947.jpg");
-    background-image: linear-gradient(90deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("http://uploads.webflow.com/59d41624f210ca00015842fd/59ea678341b4090001b4caa4_Granportuaria-Historia-1947.jpg");
+    background-image: linear-gradient(90deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("../images/Granportuaria-Historia-1947.jpg");
 }
 
 .n1slide2.s6 {
@@ -3291,25 +3291,25 @@ textarea.w-select {
 }
 
 .n1slide2.s9 {
-    background-image: -webkit-linear-gradient(0deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("../images/Granportuaria-1992-50.jpg");
-    background-image: linear-gradient(90deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("../images/Granportuaria-1992-50.jpg");
+    background-image: -webkit-linear-gradient(0deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("../images/CAMIONES-DE-FRENTE-80X200CM_684A2616-p-1080.jpeg");
+    background-image: linear-gradient(90deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("../images/CAMIONES-DE-FRENTE-80X200CM_684A2616-p-1080.jpeg");
     background-position: 0px 0px, 100% 50%;
 }
 
 .n1slide2.s10 {
-    background-image: -webkit-linear-gradient(0deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("http://uploads.webflow.com/59d41624f210ca00015842fd/59ea69cf36e5a00001680732_Granportuaria-1997.jpg");
-    background-image: linear-gradient(90deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("http://uploads.webflow.com/59d41624f210ca00015842fd/59ea69cf36e5a00001680732_Granportuaria-1997.jpg");
+    background-image: -webkit-linear-gradient(0deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("../images/Granportuaria-1997.jpg");
+    background-image: linear-gradient(90deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("../images/Granportuaria-1997.jpg");
 }
 
 .n1slide2.s11 {
-    background-image: -webkit-linear-gradient(0deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("http://uploads.webflow.com/59d41624f210ca00015842fd/59ea69ba19032000013eb280_Granportuaria-Historia-2011.jpg");
-    background-image: linear-gradient(90deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("http://uploads.webflow.com/59d41624f210ca00015842fd/59ea69ba19032000013eb280_Granportuaria-Historia-2011.jpg");
+    background-image: -webkit-linear-gradient(0deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("../images/Granportuaria-Historia-2011.jpg");
+    background-image: linear-gradient(90deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("../images/Granportuaria-Historia-2011.jpg");
     background-position: 0px 0px, 100% 50%;
 }
 
 .n1slide2.s12 {
-    background-image: -webkit-linear-gradient(0deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("http://uploads.webflow.com/59d41624f210ca00015842fd/59f8a2bdc9a5280001e41d1d_Granportuaria-Camiones.jpg");
-    background-image: linear-gradient(90deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("http://uploads.webflow.com/59d41624f210ca00015842fd/59f8a2bdc9a5280001e41d1d_Granportuaria-Camiones.jpg");
+    background-image: -webkit-linear-gradient(0deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("../images/Granportuaria-Camiones.jpg");
+    background-image: linear-gradient(90deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("../images/Granportuaria-Camiones.jpg");
     background-position: 0px 0px, 100% 50%;
     background-size: auto, cover;
 }
@@ -3408,7 +3408,7 @@ textarea.w-select {
     position: relative;
     width: 60%;
     height: 100%;
-    background-image: url("http://uploads.webflow.com/59d41624f210ca00015842fd/59d41624f210ca0001584376_Web-Nosotros-Background-Granportuaria.jpg");
+    background-image: url("../images/Web-Nosotros-Background-Granportuaria.jpg");
     background-position: 50% 0px;
     background-size: cover;
 }
@@ -3530,7 +3530,7 @@ textarea.w-select {
     display: none;
     width: 50%;
     height: 100%;
-    background-image: url("../images/Recurso%209.jpg");
+    background-image: url("../images/Recurso-9.jpg");
     background-position: 50% 50%;
     background-size: cover;
 }
@@ -3725,7 +3725,7 @@ textarea.w-select {
     width: 100%;
     height: 100%;
     background-color: #eee;
-    background-image: url("http://uploads.webflow.com/59d41624f210ca00015842fd/59d41624f210ca0001584312_Recurso%2021.png");
+    background-image: url("../images/Recurso-21.png");
     background-position: 100% 100%;
     background-size: 750px;
     background-repeat: no-repeat;
@@ -3912,7 +3912,7 @@ textarea.w-select {
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
-    background-image: url("http://uploads.webflow.com/59d41624f210ca00015842fd/59d41624f210ca0001584370_Mision-80.jpg");
+    background-image: url("../images/Mision-80.jpg");
     background-position: 50% 100%;
     background-size: cover;
 }
@@ -3921,7 +3921,7 @@ textarea.w-select {
     display: inline-block;
     width: 50%;
     height: 100%;
-    background-image: url("http://uploads.webflow.com/59d41624f210ca00015842fd/59ea6b4ee8bbc50001a41e07_Granportuaria-Mision-Fondo.jpg");
+    background-image: url("../images/Granportuaria-Mision-Fondo.jpg");
     background-position: 50% 50%;
     background-size: cover;
 }
@@ -4035,7 +4035,7 @@ textarea.w-select {
     bottom: 0px;
     width: 50%;
     height: 100%;
-    background-image: url("http://uploads.webflow.com/59d41624f210ca00015842fd/59e62e63f4adbb00011abbeb_Granportuaria-Sectores.jpg");
+    background-image: url("../images/Granportuaria-Sectores.jpg");
     background-position: 50% 50%;
     background-size: cover;
 }
@@ -4751,8 +4751,8 @@ textarea.w-select {
         height: 100%;
     }
     .n1slide1 {
-        background-image: -webkit-linear-gradient(270deg, #002f3a 50%, rgba(0, 47, 58, 0)), url("..images/Granportuaria-Nosotros-1.jpg");
-        background-image: linear-gradient(180deg, #002f3a 50%, rgba(0, 47, 58, 0)), url("..images/Granportuaria-Nosotros-1.jpg");
+        background-image: -webkit-linear-gradient(270deg, #002f3a 50%, rgba(0, 47, 58, 0)), url("../images/Granportuaria-Nosotros-1.jpg");
+        background-image: linear-gradient(180deg, #002f3a 50%, rgba(0, 47, 58, 0)), url("../images/Granportuaria-Nosotros-1.jpg");
         background-position: 0px 0px, 50% 75%;
         background-size: auto, cover;
     }

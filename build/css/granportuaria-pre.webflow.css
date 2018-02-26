@@ -3291,8 +3291,8 @@ textarea.w-select {
 }
 
 .n1slide2.s9 {
-    background-image: -webkit-linear-gradient(0deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("../images/CAMIONES-DE-FRENTE-80X200CM_684A2616-p-1080.jpeg");
-    background-image: linear-gradient(90deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("../images/CAMIONES-DE-FRENTE-80X200CM_684A2616-p-1080.jpeg");
+    background-image: -webkit-linear-gradient(0deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("../images/30-de-Diciembre.jpg");
+    background-image: linear-gradient(90deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("../images/30-de-Diciembre.jpg");
     background-position: 0px 0px, 100% 50%;
 }
 
@@ -3308,8 +3308,8 @@ textarea.w-select {
 }
 
 .n1slide2.s12 {
-    background-image: -webkit-linear-gradient(0deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("../images/Granportuaria-Camiones.jpg");
-    background-image: linear-gradient(90deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("../images/Granportuaria-Camiones.jpg");
+    background-image: -webkit-linear-gradient(0deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("../images/CAMIONES-DE-FRENTE-80X200CM_684A2616.jpg");
+    background-image: linear-gradient(90deg, #002f3a 15%, hsla(0, 0%, 100%, 0)), url("../images/CAMIONES-DE-FRENTE-80X200CM_684A2616.jpg");
     background-position: 0px 0px, 100% 50%;
     background-size: auto, cover;
 }
